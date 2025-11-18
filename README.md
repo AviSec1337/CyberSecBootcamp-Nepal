@@ -243,14 +243,7 @@
 - Class participation (10 points)
 - Certificate for students scoring 70%+
 
----
+--- 
 
-## **Materials Needed:**
-- Laptop/projector for demonstrations
-- Online Linux terminal access (JSLinux, replit.com)
-- Sample phishing emails and safe websites for demos
-- Kahoot or Quizizz account for interactive quizzes
-- Handouts with command cheat sheets
 
---
-🇳🇵 Made for हिमाबी Students
+🇳🇵 Made for हिमाबी Students by हिमाबी Student.
