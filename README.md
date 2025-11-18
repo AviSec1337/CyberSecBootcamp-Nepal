@@ -1,7 +1,7 @@
 # CyberSecurity Bootcamp
 
 
-# Cyber Security Week Course - Grade 9 & 10 Students
+# Week Course for Grade 9 & 10 Students
 
 ## 1-Hour Daily Sessions (Sunday to Friday)
 
